@@ -10,8 +10,12 @@
 <img width="816" height="612" alt="Screenshot_15" src="https://github.com/user-attachments/assets/7a8e983b-ec5d-4a17-8945-d092f2827b7d" />
 <img width="860" height="885" alt="Screenshot_14" src="https://github.com/user-attachments/assets/0c71a8ee-a38e-433a-ab14-a5148bd2c3c3" />
 
+Для макетної збірки стануть у нагоді [дроти з конекторами Dupont](https://s.click.aliexpress.com/e/_c4EF3xul)
+
 Результат буде ось таким. 
 <img width="1543" height="1174" alt="Screenshot_6" src="https://github.com/user-attachments/assets/e367de2e-85b0-41bc-a8a0-6f960c239944" />
+
+
 Можливості коротко: 
 - обирати чутливість сканування і автоматично сканувати ФМ діапазон з 87.5 МГц
 - зберігати на швидкі кнопки 21 хвилю і підписувати їх кирилицею
