@@ -9,3 +9,15 @@
 [модуль esp32 з макетною платою](https://s.click.aliexpress.com/e/_c4tq4ZTb)  
 <img width="816" height="612" alt="Screenshot_15" src="https://github.com/user-attachments/assets/7a8e983b-ec5d-4a17-8945-d092f2827b7d" />
 <img width="860" height="885" alt="Screenshot_14" src="https://github.com/user-attachments/assets/0c71a8ee-a38e-433a-ab14-a5148bd2c3c3" />
+
+
+
+
+
+## Підтримати проєкт / Donation ☕
+
+Якщо цей код допоміг вам зібрати інтернет-радіо, ви можете пригостити автора кавою:
+
+* **Buy Me a Coffee:** [посилання на ваш профіль]
+* **Solana (SOL):** `Ваша_Адреса_Гаманця_Solana`
+* **USDT (TRC-20):** `Ваша_Адреса_Гаманця_USDT`
