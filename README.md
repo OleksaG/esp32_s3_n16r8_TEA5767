@@ -32,5 +32,5 @@
 Якщо цей код допоміг вам зібрати радіо, ви можете пригостити автора кавою:
 
 
-* **Solana (SOL):** `Ваша_Адреса_Гаманця_Solana`
-* **Litecoin (LTC):** `Ваша_Адреса_Гаманця_Litecoin (LTC)`
+* **Solana (SOL):** `2EL4k1tH6fB3LHP9w1mWHTAv9WqtoziYL5ZN1tPP8ZZP`
+* **Litecoin (LTC):** `LVB8iWpdYSuRHaJsZeZ1R1M1gHiKNNu35Z`
